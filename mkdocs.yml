@@ -1,0 +1,8 @@
+site_name: kwargs.xyz
+site_url: https://kwargs-xyz.github.io/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
