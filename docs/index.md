@@ -10,6 +10,8 @@ If you enjoy solving puzzles and would like to
 learn how graph theory can be used to solve one, watch:
 > [Instant Insanity - A Puzzling Introduction to Graph Theory](https://youtu.be/t4jfxglZoGE).
 
+![Instant Insanity Opposite-Face Graph](images/instant-insanity-opposite-face-graph.png)
+
 This video is suitable for high school students and beyond.
 It was entered in this year's 
 [Summer of Math Exposition (SoME5)](https://some.3b1b.co/)
